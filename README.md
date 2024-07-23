@@ -28,5 +28,3 @@ Details of files given
 •	Summary Report.pdf : Summary Analysis Report
 • Presentation.pdf : Final Presentation
 
-![image](https://github.com/user-attachments/assets/d0602c97-46fc-4d6d-9b58-20f52ba48c26)
-
